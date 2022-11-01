@@ -1,1 +1,5 @@
-# aiops-test-project
+Cloning source code from repo
+
+```
+git clone <url>
+```
